@@ -1,7 +1,5 @@
 ---
 layout: home
----
-
 alt_title: "WHO IS SHE??? WHAT HAS SHE BEEN UP TO??"
 sub_title: "is it time for her to be cancelled"
 image: assets/images/siteheader.jpg
@@ -13,3 +11,4 @@ introduction: |
 	- Hardware modding Nintendo DS consoles and developing romhacks for evil.
 	- Deviously creating Minecraft skins and other miscellaineous sprite work.
 	- Developing a "Farmville-like" indie game with Gacha lootboxes (but worse).
+---
