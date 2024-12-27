@@ -1,5 +1,6 @@
-name: Simone Scholes' Personal Site
-remote_theme: "mmistakes/jekyll-theme-basically-basic" 
+title: Simone Scholes' Personal Site
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+repository: heysimone/heysimone.github.io
 
 plugins:
  - jekyll-remote-theme
