@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: about
-permalink: /about/
+permalink: /About/
 author:
   name: Simone Scholes
   picture: /assets/images/IMG_3613.jpg
