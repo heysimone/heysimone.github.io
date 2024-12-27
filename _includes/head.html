@@ -22,9 +22,9 @@
   </script>
 
   <link rel="stylesheet" href="{{ '/assets/stylesheets/main.css' | relative_url }}">
-  {% if site.data.theme.google_fonts %}
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap">
-  {% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap">
 
   {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed'%}
     {% comment %}
