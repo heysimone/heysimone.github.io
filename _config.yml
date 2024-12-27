@@ -1,0 +1,5 @@
+name: Simone Scholes' Personal Site
+remote_theme: "mmistakes/jekyll-theme-basically-basic" 
+
+plugins:
+ - jekyll-remote-theme
