@@ -5,6 +5,7 @@ twitter_username: heysimone
 youtube_username: heysimone
 instagram_username: simone.scholes
 lang: en-US
+logo: assets/images/sitelogo.png
 copyright: "© 2024 heysimone.exposed"
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 repository: heysimone/heysimone.github.io
