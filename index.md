@@ -1,3 +1,15 @@
 ---
 layout: home
 ---
+
+alt_title: "WHO IS SHE??? WHAT HAS SHE BEEN UP TO??"
+sub_title: "is it time for her to be cancelled"
+image: assets/images/siteheader.jpg
+
+introduction: |
+	Simone Scholes is a 25 year old independent game developer and sprite artist currently based outside of Metro Detroit. In between shifts at the poop factory she spends her free time flaming people on the website formerly known as Twitter dot com and TikTok as well as pursuing passion projects. Those passion projects include none other than:
+
+	- Editing and uploading the most villainous videos to her YouTube homepage.
+	- Hardware modding Nintendo DS consoles and developing romhacks for evil.
+	- Deviously creating Minecraft skins and other miscellaineous sprite work.
+	- Developing a "Farmville-like" indie game with Gacha lootboxes (but worse).
