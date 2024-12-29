@@ -12,3 +12,8 @@ repository: heysimone/heysimone.github.io
 
 plugins:
  - jekyll-remote-theme
+
+collections:
+  gallery:
+    output: true
+    permalink: /:collection/:path/
