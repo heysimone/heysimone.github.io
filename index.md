@@ -18,7 +18,7 @@ Those projects include:
 
   - Developing a "Farmville-like" [desktop game](/HappyFarmWorld/):  
 
-    ![HappyFarmWorld](assets/images/Splash5.jpg)  
+    [![HappyFarmWorld](assets/images/Splash5.jpg)](/HappyFarmWorld/)  
 
   - Modifying hardware of many retro consoles:  
 
@@ -34,6 +34,6 @@ Those projects include:
 
       AND  
 
-  - Capturing [memories on film](gallery.md) with her Trip 35:  
+  - Capturing [memories on film](/Gallery/) with her Trip 35:  
 
-    ![Chicago](assets/images/Splash6.jpg)
+    [![Chicago](assets/images/Splash6.jpg)](/Gallery/)
