@@ -16,19 +16,19 @@ When she's not pissing people off online Simone spends her free time pursuing pa
 Those projects include:  
 
 
-  - Developing a "Farmville-like" [farm sandbox game](/HappyFarmWorld/):  
+  - Developing a "Farmville-like" [desktop game](/HappyFarmWorld/):  
 
     ![HappyFarmWorld](assets/images/Splash5.jpg)  
 
-  - Hardware modding Nintendo DS consoles:  
+  - Modifying hardware of many retro consoles:  
 
     ![NDS-tvOUT](assets/images/Splash4.jpg)  
 
-  - Iterating on Generation IV Pokémon romhacks:  
+  - Iterating on Nintendo DS Pokémon romhacks:  
 
     ![MochaMonPlatinum](assets/images/Splash2.jpg)  
 
-  - Creating miscellaineous sprite work:  
+  - Creating sprite work for her various projects:  
 
     ![MinecraftSkin](assets/images/Splash1.jpg)  
 
