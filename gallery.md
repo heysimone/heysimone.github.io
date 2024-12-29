@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Gallery
-alt_title: GALLERY
+alt_title: "GALLERY"
 collection: gallery
 permalink: /Gallery/
 entries_layout: grid
