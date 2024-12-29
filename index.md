@@ -11,7 +11,6 @@ actions:
     url: "assets/images/CheckThisOut.jpg"
 ---
 * * *
-<span style="text-align: center">
   
 When she's not pissing people off online Simone spends her free time pursuing passion projects.  
 Those projects include:  
@@ -33,10 +32,8 @@ Those projects include:
 
     ![MinecraftSkin](assets/images/Splash1.jpg)  
 
-  AND  
+      AND  
 
   - Capturing [memories on film](gallery.md) with her Trip 35:  
 
     ![Chicago](assets/images/Splash6.jpg)
-
-</span>
