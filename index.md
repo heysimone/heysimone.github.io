@@ -10,7 +10,11 @@ actions:
     icon: email
     url: "assets/images/CheckThisOut.jpg"
 ---
-When she's not pissing people off online Simone spends her free time pursuing passion projects. Those projects include:  
+* * *
+<span style="text-align: justify">
+  
+When she's not pissing people off online Simone spends her free time pursuing passion projects.  
+Those projects include:  
 
 
   - Developing a "Farmville-like" [farm sandbox game](/HappyFarmWorld/):  
@@ -33,4 +37,5 @@ When she's not pissing people off online Simone spends her free time pursuing pa
 
   - Capturing [memories on film](gallery.md) with her Trip 35:  
 
-  ![Chicago](assets/images/Splash6.jpg)
+    ![Chicago](assets/images/Splash6.jpg)
+</span>
