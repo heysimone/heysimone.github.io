@@ -5,7 +5,8 @@ permalink: /HappyFarmWorld/
 image: assets/images/HFWBanner.png
 layout: page
 ---
-   Happy Farm World is an in development real-time farm simulation sandbox game which draws heavy inspiration from classic browser-based flash games. Many modern games which approach the farming genre either focus heavily on a strict 1-to-1 simulation of farming or draw focus away from it with other gameplay systems, bogging down the experience. Happy Farm World avoids this by placing the farming gameplay loop front and center.  
+   Happy Farm World is an in development real-time farm simulation sandbox game which draws heavy inspiration from classic browser-based flash games.  
+Many modern games which approach the farming genre either focus heavily on a strict 1-to-1 simulation of farming or draw focus away from it with other gameplay systems, bogging down the experience. Happy Farm World avoids this by placing the farming gameplay loop front and center.  
 
 REAL-TIME CROP GROWTH  
 ---------------------  
