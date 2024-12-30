@@ -34,6 +34,6 @@ Those projects include:
 
       AND  
 
-  - Capturing [memories on film](/Gallery/) with her Trip 35:  
+  - Capturing memories on film with her Trip 35:  
 
-    [![Chicago](assets/images/Splash6.jpg)](/Gallery/)
+    ![Chicago](assets/images/Splash6.jpg)
