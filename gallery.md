@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: collection
 title: Gallery
 alt_title: "GALLERY"
 collection: gallery
