@@ -7,13 +7,13 @@ author:
   picture: /assets/images/IMG_3613.jpg
 ---
 
-Simone Scholes is an independent game developer and retro-tech enthusiast currently located in the Metro Detroit area.  
+Simone Scholes is an independent game developer and creative currently located in the Metro Detroit area.
 
-Known most places online as heysimone; this is her personal site, revealing her most closely held passions and hobbies in a tongue-in-cheek manner.  
-Although she has extensive professional experience in the retail industry, her skills denote a more generalist nature lending well to most types of work.  
-Future plans for her include a move to Los Angeles or Chicago for networking and job prospects.  
+Known most places online as heysimone and from that one thing that one time; Simone spends most days at her workplace that she dotingly refers to as the "poop factory" and most nights being hopelessly addicted to World of Warcraft Classic. When she manages to find time away from these vices she'll often pour hour upon hour into passion projects made strictly for her own enjoyment or satisfaction, be that coding, web development, pixel-art, video editing, writing, or any number of physical mediums.
 
-If she has caught your attention, for whatever reason, please reach out through the appropriate channels.
+Future plans for her include the forthcoming release of [Happy Farm World](/HappyFarmWorld/) and a move to Los Angeles or Chicago for networking and job prospects.
+
+If she has caught your attention, for whatever reason, please reach out through her socials or the following contact address.
 
 Contact info:  
 [contact@heysimone.exposed](mailto:contact@heysimone.exposed)  
