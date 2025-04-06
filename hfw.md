@@ -16,15 +16,15 @@ REAL-TIME CROP GROWTH
 
 With real-time crop growth plant a fast growing crop for quick returns in *minutes*, or a slow growing set it and forget it crop and come back in a couple hours to stuff your coffers with a **bountiful** harvest. Level up crops for even higher payouts and turn around and use this profit to invest in your animal stock, seeds, decorations, or even the coveted Fruit Box!  
 
-A FARM GAME WITH LOOT BOXES??
------------------------------  
+THERE'S LOOT BOXES??
+--------------------  
 
 ![FruitBoxMockup](assets/images/FruitBoxMockup.png)
 
 YES! And no, you cannot pay with real money. Instead, use the farmcoins you earn from your crops and livestock and crack open a stray shipping box and the contents are yours! Nearly anything could be inside, new exotic seeds, otherworldly livestock, wacky decorations; you'll be in for a surprise *every time*. Speaking of surprises..  
 
-RANDOM ENCOUNTERS AND EVENTS
-----------------------------  
+RANDOM ENCOUNTERS!
+------------------  
 
 ![EventMockup](assets/images/EventMockup.png)
 
