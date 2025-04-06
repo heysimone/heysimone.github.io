@@ -1,10 +1,10 @@
 ---
 layout: home
-alt_title: "WHO IS THIS GIRL??"
-sub_title: "Is it time for her to be cancelled?"
+alt_title: "SHE'S SO CANCELLED"
+sub_title: "It's the heysimone is over party!"
 image: assets/images/siteheader.jpg
 introduction: |
-  Grievances? Fill out our helpful form!
+  Have any hate mail? Fill out our form!
 actions:
   - label: "heysimone Complaint Form"
     icon: email
@@ -12,28 +12,10 @@ actions:
 ---
 * * *
   
-When she's not pissing people off online Simone spends her free time pursuing passion projects.  
-Those projects include:  
+[BOYCOTT HER INSUFFERABLE GAME](/HappyFarmWorld/)
 
+[![HappyFarmWorld](assets/images/HFWBanner.png)](/HappyFarmWorld/)
 
-  - Developing a "Farmville-like" [desktop game](/HappyFarmWorld/):  
+[BOYCOTT HER INSUFFERABLE FACE](/About/)
 
-    [![HappyFarmWorld](assets/images/Splash5.jpg)](/HappyFarmWorld/)  
-
-  - Modifying hardware of many retro consoles:  
-
-    ![NDS-tvOUT](assets/images/Splash4.jpg)  
-
-  - Iterating on Nintendo DS Pokémon romhacks:  
-
-    ![MochaMonPlatinum](assets/images/Splash2.jpg)  
-
-  - Creating sprite work for her various projects:  
-
-    ![MinecraftSkin](assets/images/Splash1.jpg)  
-
-      AND  
-
-  - Capturing memories on film with her Trip 35:  
-
-    ![Chicago](assets/images/Splash6.jpg)
+[![About](assets/images/IMG_5373.jpg)](/About/)

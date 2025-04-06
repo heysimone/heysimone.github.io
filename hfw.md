@@ -1,5 +1,4 @@
 ---
-title: "Happy Farm World"
 sub_title: "A Real-time Farm Simulation Game"
 permalink: /HappyFarmWorld/
 image: assets/images/HFWBanner.png
@@ -14,7 +13,7 @@ REAL-TIME CROP GROWTH
 
 ![HarvestMockup](assets/images/HarvestMockup.png)
 
-With real time crop growth plant a fast growing crop for quick returns in *minutes*, or a slow growing set it and forget it crop and come back in a couple hours to stuff your coffers with a **bountiful** harvest. Level up crops for even higher payouts and turn around and use this profit to invest in your animal stock, seeds, decorations, or even the coveted Fruit Box!  
+With real-time crop growth plant a fast growing crop for quick returns in *minutes*, or a slow growing set it and forget it crop and come back in a couple hours to stuff your coffers with a **bountiful** harvest. Level up crops for even higher payouts and turn around and use this profit to invest in your animal stock, seeds, decorations, or even the coveted Fruit Box!  
 
 A FARM GAME WITH LOOT BOXES??
 -----------------------------  
