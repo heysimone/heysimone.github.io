@@ -12,10 +12,10 @@ actions:
 ---
 * * *
   
-[BOYCOTT HER INSUFFERABLE GAME](/HappyFarmWorld/)
+[**BOYCOTT HER INSUFFERABLE GAME**](/HappyFarmWorld/)
 
 [![HappyFarmWorld](assets/images/HFWBanner.png)](/HappyFarmWorld/)
 
-[BOYCOTT HER INSUFFERABLE FACE](/About/)
+[**BOYCOTT HER INSUFFERABLE FACE**](/About/)
 
 [![About](assets/images/IMG_5373.jpg)](/About/)

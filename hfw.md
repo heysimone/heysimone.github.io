@@ -1,4 +1,5 @@
 ---
+title: "Happy Farm World"
 sub_title: "A Real-time Farm Simulation Game"
 permalink: /HappyFarmWorld/
 image: assets/images/HFWBanner.png

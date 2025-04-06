@@ -1,7 +1,10 @@
 ---
+title: "About Simone"
 layout: about
 permalink: /About/
-image: assets/images/IMG_5373.jpg
+author:
+  name: Simone Scholes
+  picture: /assets/images/IMG_5373.jpg
 ---
 
 Simone Scholes is an independent game developer and creative currently located in the Metro Detroit area.
